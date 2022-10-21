@@ -1,6 +1,6 @@
 # Object-Oriented-Programming with Java <br>
 
-Task1- Project2: Using println to make "VIO" <br>
+Task1- Project2: Using println to make "VIO" word art <br>
 Task2- ProjectBangunDatar: code to calculate square, rectangle, triangle, and circle component.<br>
 Task4- ProjectPengubinanKompleks: code to calculate amount of floor.<br>
 Task5- ProjectBangunDatar2:  code to calculate square, rectangle, triangle, and circle component with static non-static way.<br>
